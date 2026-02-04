@@ -132,9 +132,7 @@ Swiggy needs a centralized view to monitor sales performance, customer satisfact
 
 ## 5. Screenshots / Demo
 
-![Dashboard Overview](Screenshots/Dashboard_Overview.png)
-![KPI Section](Screenshots/KPI_Section.png)
-![State Wise Sales](Screenshots/State_Map.png)
+![Dashboard Overview](https://github.com/riteshkumar-da/Swiggy-Sales-Analysis-Excel-Dashboard/blob/main/Swiggy%20Dashboard.png)
 
 ---
 
