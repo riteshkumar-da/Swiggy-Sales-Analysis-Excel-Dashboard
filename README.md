@@ -1,4 +1,4 @@
-# Swiggy Sales Analytics – Excel Dashboard 📊
+# Swiggy Sales Analytics 
 
 An interactive Excel dashboard designed to analyze Swiggy food delivery sales performance, customer behavior, and regional trends across India.
 
@@ -76,7 +76,7 @@ Swiggy needs a centralized view to monitor sales performance, customer satisfact
 
 ---
 
-### 👤 Author
+###  Author
 **Ritlesh Kumar**  
 GitHub: *(https://github.com/riteshkumar-da/Swiggy-Sales-Analysis-Excel-Dashboard)*  
 LinkedIn: *(https://www.linkedin.com/in/ritlesh-kumar-740405280)*
